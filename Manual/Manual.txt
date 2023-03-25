@@ -1,0 +1,42 @@
+--------------------------------------------------------------------
+   Jawbreaker Help
+--------------------------------------------------------------------
+
+   Contents:
+1. Playing Jawbreaker
+2. Setting Jawbreaker Options
+3. Statistics
+--------------------------------------------------------------------
+
+   1. Playing Jawbreaker
+   Jawbreaker is easy to learn, yet difficult to master. The objective is to align similar jawbreakers in order to form large blocks of jawbreakers before bursting them. The more jawbreakers in the block before they are burst, the greater number of points you will receive.
+   In order to burst a jawbreaker, the jawbreaker must be connected to other similar jawbreakers on the playing board. If you click on a jawbreaker that is connected, those connected jawbreakers will be highlighted and a new jawbreaker will pop up, displaying that block's potential jawbreaker points. Click on your selection again in order to burst the jawbreakers. All jawbreakers above your burst block will now fall down.
+   Breaker Bonus. If you manage to leave fewer than 5 unburst jawbreakers on the board you will be rewarded with more points at the conclusion of the game.
+   Undo. Moves in Jawbreaker can be undone. To take back the last move you have made, click on the Undo button.
+--------------------------------------------------------------------
+
+   2. Setting Jawbreaker Options
+   Jawbreaker allows you to vary your playing experience. To set your options, do the following:
+- Pop up the Game menu;
+- Select the Options item;
+- Set the controls to the desired setting.
+    - Play Sounds: control to set whether or not you want Jawbreaker to make sounds;
+    - Confirm End Game: control to set Jawbreaker to pop up a confirmation dialog when the 'End Game' menu item is selected;
+    - Guest Mode: check this to enable guests to play without affecting the statistics (disabling the guest mode affects only new games started after making the change);
+    - Game Style: here you can set the type of game you would like to play (changing the style affects only new games started after making the change):
+        - Standard - the default mode of play where there is a set number of jawbreakers that will not increase;
+        - Continuous - in this style, whenever a vertical set of jawbreakers has been burst and the remaining jawbreakers have shifted over to the right, a new randomly selected column of jawbreakers will pop up on the left, thereby allowing a game to be played for an extended amount of time;
+        - Shifter - in this style, when a set of jawbreakers has been burst, all remaining jawbreakers to the top and left will shift down and to the right;
+        - MegaShift - this style is a combination of the shifter and continuous styles in that jawbreakers will shift down and to the right while empty columns will fill on the left.
+--------------------------------------------------------------------
+
+   3. Statistics 
+   Jawbreaker records all your statistics for each playing style. In order to view your statistics, do the following:
+- Pop up the Info menu;
+- Select the Statistics item.
+   The statistics recorded are: 
+- Games - total number of games played;
+- Average - average score across all games played in that style;
+- High - high score for that particular style.
+   If you would like to reset all your statistics, click on the Reset button and confirm the resulting dialog.
+--------------------------------------------------------------------
